@@ -10,4 +10,8 @@
             </field>
         </field>
     </record>
+
+    <act_window id="partner_activities_action" name="Partner activities" res_model="res.partner.activity" view_mode="list,form" />
+
+    <menuitem id="partner_activities_menu" name="Partner activities" action="partner_activities_action" parent="contacts.res_partner_menu_config"/>
 </odoo>

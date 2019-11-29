@@ -1,0 +1,89 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* partner_activities
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 13.0-20191106\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-29 18:28+0000\n"
+"PO-Revision-Date: 2019-11-29 18:28+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: partner_activities
+#: model:ir.model.fields,field_description:partner_activities.field_res_partner__p_activity_ids
+#: model:ir.model.fields,field_description:partner_activities.field_res_users__p_activity_ids
+msgid "Actividad"
+msgstr ""
+
+#. module: partner_activities
+#: code:addons/partner_activities/models/res_partner.py:0
+#, python-format
+msgid "Parent activities"
+msgstr ""
+
+#. module: partner_activities
+#: model:ir.model,name:partner_activities.model_res_partner
+msgid "Contact"
+msgstr ""
+
+#. module: partner_activities
+#: model:ir.model.fields,field_description:partner_activities.field_res_partner_activity__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: partner_activities
+#: model:ir.model.fields,field_description:partner_activities.field_res_partner_activity__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: partner_activities
+#: model:ir.model.fields,field_description:partner_activities.field_res_partner_activity__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: partner_activities
+#: model:ir.model.fields,field_description:partner_activities.field_res_partner_activity__id
+msgid "ID"
+msgstr ""
+
+#. module: partner_activities
+#: model:ir.model.fields,field_description:partner_activities.field_res_partner_activity____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: partner_activities
+#: model:ir.model.fields,field_description:partner_activities.field_res_partner_activity__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: partner_activities
+#: model:ir.model.fields,field_description:partner_activities.field_res_partner_activity__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: partner_activities
+#: model:ir.model.fields,field_description:partner_activities.field_res_partner_activity__name
+msgid "Name"
+msgstr ""
+
+#. module: partner_activities
+#: model:ir.model.fields,field_description:partner_activities.field_res_partner_activity__partner_ids
+msgid "Partner"
+msgstr ""
+
+#. module: partner_activities
+#: model:ir.actions.act_window,name:partner_activities.partner_activities_action
+#: model:ir.ui.menu,name:partner_activities.partner_activities_menu
+msgid "Partner activities"
+msgstr ""
+
+#. module: partner_activities
+#: model:ir.model,name:partner_activities.model_res_partner_activity
+msgid "Partner activity"
+msgstr ""

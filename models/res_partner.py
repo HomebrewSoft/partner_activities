@@ -8,5 +8,5 @@ class Partner(models.Model):
 
     p_activity_ids = fields.Many2many(
         comodel_name='res.partner.activity',
-        string=_('Activity'),
+        string=_('Parent activities'),
     )
