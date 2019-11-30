@@ -81,7 +81,7 @@ msgstr "Empresa"
 #: model:ir.actions.act_window,name:partner_activities.partner_activities_action
 #: model:ir.ui.menu,name:partner_activities.partner_activities_menu
 msgid "Partner activities"
-msgstr "Categorias de la compañía"
+msgstr "Actividades de la compañía"
 
 #. module: partner_activities
 #: model:ir.model,name:partner_activities.model_res_partner_activity
